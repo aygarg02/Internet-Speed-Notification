@@ -10,7 +10,7 @@
 - [Usage](#usage)
 - [License](#license)
 ## About
--count the  number of times the speed goes below the certain threshold in the whole day and send the notification to the recipitent in our case internet service porvider at night 11 PM that in the whole day this much time the internet is not working properly
+- Count the number of times the internet speed drops below a certain threshold throughout the day and send a notification to the internet service provider at 11 PM stating how many times the internet was not working properly during the day
 ## Features
 - Measures internet speed at regular intervals.
 - Logs speed measurements.
