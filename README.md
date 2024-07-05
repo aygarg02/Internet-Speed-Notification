@@ -1,5 +1,5 @@
 # Internet Speed Tracker with Email Notifications
-This project monitors internet speed at regular intervals and sends email notifications if the speed drops below a defined threshold.
+This project monitors internet speed at regular intervals and sends email notifications if the speed drops below a defined threshold.(count the  number of times the speed goes below the certain threshold in the whole day and send the notification to the recipitent in out case internet service porvider at night 11 PM )
 
 Table of Contents
 Features
