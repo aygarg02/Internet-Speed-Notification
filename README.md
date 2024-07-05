@@ -33,4 +33,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/internet-speed-tracker.git
-   cd internet-speed-tracker
+   cd email
